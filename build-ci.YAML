@@ -1,0 +1,3 @@
+steps:
+  - name: CI Build 🏗️
+    run: npm run build
